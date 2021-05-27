@@ -1,0 +1,38 @@
+body {
+    background-color: seashell;
+    font-family: cursive;
+    font-size: medium;
+    font-style: oblique;
+    color:brown;
+}
+h2 {
+    color: firebrick;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    
+}
+ol {
+    font-family: monospace;
+    color:rebeccapurple;
+    font-size:medium;
+}
+tr {
+    color: saddlebrown;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul {
+    color: salmon;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+hr {
+    
+    width: 5%;
+    border-style:dotted none none;
+    border-top-color: grey;
+    border-width: 5px;
+    
+    height: 0%;
+
+}
